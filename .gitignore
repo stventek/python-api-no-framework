@@ -1,0 +1,33 @@
+# Python related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+
+# Editor files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local environment
+.env*
+
+# Dependency directories
+venv/
+__env__/
+.venv
+
+# Compiled output
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
